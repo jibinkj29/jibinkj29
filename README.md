@@ -13,7 +13,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 ## Comment
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+You can seperate public folder from main directory if you want
+Term and subjects are static dropdown
+
 
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
